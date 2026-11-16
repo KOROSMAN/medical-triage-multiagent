@@ -1,0 +1,59 @@
+{
+  "red_flags": [
+    {
+      "keyword": "difficulte respiratoire",
+      "category": "respiratoire",
+      "severity": "haute"
+    },
+    {
+      "keyword": "essoufflement",
+      "category": "respiratoire",
+      "severity": "haute"
+    },
+    {
+      "keyword": "douleur thoracique",
+      "category": "cardiaque",
+      "severity": "haute"
+    },
+    {
+      "keyword": "perte de connaissance",
+      "category": "neurologique",
+      "severity": "haute"
+    },
+    {
+      "keyword": "confusion",
+      "category": "neurologique",
+      "severity": "haute"
+    },
+    {
+      "keyword": "levres bleues",
+      "category": "respiratoire",
+      "severity": "haute"
+    },
+    {
+      "keyword": "fievre 40",
+      "category": "infectieux",
+      "severity": "haute"
+    },
+    {
+      "keyword": "saignement important",
+      "category": "hemorragique",
+      "severity": "haute"
+    },
+    {
+      "keyword": "vertiges intenses",
+      "category": "neurologique",
+      "severity": "moyenne"
+    },
+    {
+      "keyword": "douleur 9",
+      "category": "douleur",
+      "severity": "moyenne"
+    },
+    {
+      "keyword": "douleur 10",
+      "category": "douleur",
+      "severity": "haute"
+    }
+  ]
+}
